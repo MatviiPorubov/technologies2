@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(156, 156, 156);
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+main {
+    padding: 20px;
+}
+
+.game-emblem {
+    float: left;
+    margin-right: 20px;
+}
+
+img {
+    position: relative;
+    margin-top: 20px;
+    margin-left: 10px;
+    width: 150px; 
+    height: auto;
+}
+.h1{
+    font-style: italic;
+}
+.h3{
+    font: bold;
+}
+.link{
+    margin-right: 30px;
+    display: flex;
+    flex-direction:row;
+}
+.linkp{
+    margin-right: 400px;
+  display: flex;
+    float: right;
+}
